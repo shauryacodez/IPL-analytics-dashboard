@@ -54,3 +54,15 @@ git clone https://github.com/yourusername/IPL-Analytics-Dashboard.git
 ---
 
 ⭐ If you like this project, consider giving it a star!
+## Git Practice
+
+Today I practiced the basic Git workflow:
+
+- git clone
+- git status
+- git add
+- git commit
+- git push
+- git pull
+
+Learning version control one command at a time.
